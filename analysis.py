@@ -33,3 +33,4 @@ plt.grid(True)
 
 plt.savefig("cac_plot.png", dpi=120)
 print("Plot saved as cac_plot.png")
+print("Analysis completed successfullly.")

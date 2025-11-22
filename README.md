@@ -63,6 +63,6 @@ The included file `cac_plot.png` shows:
 
 - `analysis.py` — Python analysis and visualization code  
 - `cac_plot.png` — Trend chart  
-- `README.md` — Narrative, insights, recommendations  
+- `README.md` — Narratiive, insights, recommendations  
 
 ---
